@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Запустите игру:
 
 ```bash
-python Pinball_cv.py
+python pinball.py.py
 ```
 Настройка позиции:
 
