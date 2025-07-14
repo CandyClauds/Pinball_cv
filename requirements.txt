@@ -1,1 +1,1 @@
- os queue sounddevice vosk sys json time pyttsx3 llama_cpp
+pygame cv2 cvzone numpy 
